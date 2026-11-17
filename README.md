@@ -1,8 +1,11 @@
-# Awesome Live Interactive Cross-Browser Testing 🌐💻⚡
+# Awesome Live Interactive Cross-Browser Testing 🌐💻⚡🧪
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Live-Interactive-Cross-Browser-Testing"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="./assets/banner.svg" alt="Awesome Live Interactive Cross-Browser Testing Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Interactive-Cross-Browser-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Live-Interactive-Cross-Browser-Testing?style=social&color=white" alt="Repo Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Interactive-Cross-Browser-Testing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Live-Interactive-Cross-Browser-Testing?style=social&color=white" alt="Repo Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Interactive-Cross-Browser-Testing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT"/></a>
@@ -13,7 +16,7 @@
 
 > 🚀 **The definitive, curated directory of Live Interactive Cross-Browser Testing platforms and self-hosted open-source browser virtualization grids.** 
 > 
-> Explore real-time manual testing tools, cloud-hosted browser fleets, remote desktop WebRTC/VNC browser streaming, and containerized multi-browser infrastructure for debugging websites and web applications across real Chrome, Firefox, Safari (WebKit), Edge, iOS Mobile Safari, and Android Chrome configurations.
+> Explore real-time manual testing tools, cloud-hosted browser fleets, remote desktop WebRTC/VNC browser streaming, and containerized multi-browser infrastructure for debugging websites and web applications across real Chrome 🌐, Firefox 🦊, Safari (WebKit) 🧭, Edge 🌊, iOS Mobile Safari 🍏, and Android Chrome 🤖 configurations.
 >
 > 🌟 *Star this repository to track the cross-browser testing and web QA ecosystem!* 🌟
 
@@ -39,6 +42,8 @@
   - [13. Kasm Workspaces Images](#13-kasm-workspaces-images-)
 - [📊 Feature Comparison at a Glance](#-feature-comparison-at-a-glance)
 - [🤝 Contributing](#-contributing)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [##  Star History](#--star-history)
 - [📄 License](#-license)
 
 ---
@@ -74,8 +79,8 @@ Self-hosted, community-driven cross-browser testing platforms, remote interactiv
 Sorted in descending order by GitHub repository Stars Counts:
 
 ### 1. Playwright [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)
-- **Repository:** [microsoft/playwright](https://github.com/microsoft/playwright)
-- **Tech Stack:** TypeScript • JavaScript • Python • C# • Java
+- **Repository:** [microsoft/playwright](https://github.com/microsoft/playwright) 🎭
+- **Tech Stack:** TypeScript 🔷 • JavaScript 🟨 • Python 🐍 • C# 🟣 • Java ☕
 - **License:** Apache-2.0
 - **Supported Browsers:** Chromium (Google Chrome, Microsoft Edge) • WebKit (Apple Safari) • Firefox
 - **Why It Stands Out:**
@@ -84,8 +89,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Resilient auto-waiting, network mocking/intercepting, multi-page contexts, and mobile emulation for responsive layout testing.
 
 ### 2. Puppeteer [![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)
-- **Repository:** [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-- **Tech Stack:** TypeScript • JavaScript • Node.js
+- **Repository:** [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) 🎪
+- **Tech Stack:** TypeScript 🔷 • JavaScript 🟨 • Node.js 🟩
 - **License:** Apache-2.0
 - **Supported Browsers:** Chromium • Google Chrome • Firefox (WebDriver BiDi)
 - **Why It Stands Out:**
@@ -94,8 +99,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Defacto industry standard for browser automation, PDF rendering, automated screenshots, and SPA performance auditing.
 
 ### 3. Cypress [![Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers)
-- **Repository:** [cypress-io/cypress](https://github.com/cypress-io/cypress)
-- **Tech Stack:** JavaScript • TypeScript • Electron
+- **Repository:** [cypress-io/cypress](https://github.com/cypress-io/cypress) 🌲
+- **Tech Stack:** JavaScript 🟨 • TypeScript 🔷 • Electron ⚛️
 - **License:** MIT
 - **Supported Browsers:** Chrome • Firefox • Edge • Electron • WebKit (experimental)
 - **Why It Stands Out:**
@@ -104,8 +109,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Automatic reloading upon code changes, network traffic interception, and built-in flakiness detection.
 
 ### 4. Selenium [![Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers)
-- **Repository:** [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)
-- **Tech Stack:** Java • Python • C# • Ruby • JavaScript
+- **Repository:** [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) 🧪
+- **Tech Stack:** Java ☕ • Python 🐍 • C# 🟣 • Ruby 💎 • JavaScript 🟨
 - **License:** Apache-2.0
 - **Supported Browsers:** Chrome • Firefox • Safari • Edge • Internet Explorer
 - **Why It Stands Out:**
@@ -114,8 +119,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Unmatched ecosystem longevity, enterprise multi-language bindings, and broad integration with every major commercial testing grid.
 
 ### 5. Neko [![Stars](https://img.shields.io/github/stars/m1k1o/neko?style=social&color=white)](https://github.com/m1k1o/neko/stargazers)
-- **Repository:** [m1k1o/neko](https://github.com/m1k1o/neko)
-- **Tech Stack:** Go • TypeScript • Vue.js • WebRTC
+- **Repository:** [m1k1o/neko](https://github.com/m1k1o/neko) 🐱
+- **Tech Stack:** Go 🔵 • TypeScript 🔷 • Vue.js 💚 • WebRTC 📡
 - **License:** Apache-2.0
 - **Supported Browsers:** Chromium • Firefox • Brave • Tor • Edge
 - **Why It Stands Out:**
@@ -124,8 +129,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Lightweight self-hosted open-source alternative to Browserling and commercial virtual browser pods.
 
 ### 6. OpenSTF (Smartphone Test Farm) [![Stars](https://img.shields.io/github/stars/openstf/stf?style=social&color=white)](https://github.com/openstf/stf/stargazers)
-- **Repository:** [openstf/stf](https://github.com/openstf/stf)
-- **Tech Stack:** Node.js • ZeroMQ • RethinkDB • AngularJS
+- **Repository:** [openstf/stf](https://github.com/openstf/stf) 📱
+- **Tech Stack:** Node.js 🟩 • ZeroMQ ⚡ • RethinkDB 🍃 • AngularJS 🅰️
 - **License:** Apache-2.0
 - **Supported Platforms:** Android Mobile Browsers (Chrome, WebView)
 - **Why It Stands Out:**
@@ -134,8 +139,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Remote ADB debugging access exposing a direct port to connect developer devtools directly to remote mobile browsers.
 
 ### 7. Browserless [![Stars](https://img.shields.io/github/stars/browserless/browserless?style=social&color=white)](https://github.com/browserless/browserless/stargazers)
-- **Repository:** [browserless/browserless](https://github.com/browserless/browserless)
-- **Tech Stack:** TypeScript • Node.js • Docker
+- **Repository:** [browserless/browserless](https://github.com/browserless/browserless) 🚀
+- **Tech Stack:** TypeScript 🔷 • Node.js 🟩 • Docker 🐳
 - **License:** SSPL-1.0
 - **Supported Browsers:** Chromium • Chrome • Firefox • WebKit
 - **Why It Stands Out:**
@@ -144,8 +149,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Session concurrency management, proxy rotation, and enterprise-grade Docker orchestration.
 
 ### 8. WebdriverIO [![Stars](https://img.shields.io/github/stars/webdriverio/webdriverio?style=social&color=white)](https://github.com/webdriverio/webdriverio/stargazers)
-- **Repository:** [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)
-- **Tech Stack:** TypeScript • JavaScript • Node.js
+- **Repository:** [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) 🤖
+- **Tech Stack:** TypeScript 🔷 • JavaScript 🟨 • Node.js 🟩
 - **License:** MIT
 - **Supported Browsers:** Chrome • Firefox • Safari • Edge • Mobile Safari • Mobile Chrome
 - **Why It Stands Out:**
@@ -154,8 +159,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Rich plugin architecture connecting seamlessly to open-source Docker grids and commercial device clouds.
 
 ### 9. Docker-Selenium [![Stars](https://img.shields.io/github/stars/SeleniumHQ/docker-selenium?style=social&color=white)](https://github.com/SeleniumHQ/docker-selenium/stargazers)
-- **Repository:** [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
-- **Tech Stack:** Shell • Dockerfile • Python
+- **Repository:** [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) 🐳
+- **Tech Stack:** Shell 🐚 • Dockerfile 🐳 • Python 🐍
 - **License:** Apache-2.0
 - **Supported Browsers:** Chrome • Firefox • Edge
 - **Why It Stands Out:**
@@ -164,8 +169,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Pre-configured video recording, scalable Docker Compose definitions, and Kubernetes Helm chart support.
 
 ### 10. Steel Browser [![Stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social&color=white)](https://github.com/steel-dev/steel-browser/stargazers)
-- **Repository:** [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser)
-- **Tech Stack:** TypeScript • Rust • Docker
+- **Repository:** [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) 🛡️
+- **Tech Stack:** TypeScript 🔷 • Rust 🦀 • Docker 🐳
 - **License:** Apache-2.0
 - **Supported Browsers:** Chromium • Headless & Headed Chrome
 - **Why It Stands Out:**
@@ -174,8 +179,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Built-in proxy management, anti-detection stealth configurations, and session recording artifacts.
 
 ### 11. Device Farmer STF [![Stars](https://img.shields.io/github/stars/DeviceFarmer/stf?style=social&color=white)](https://github.com/DeviceFarmer/stf/stargazers)
-- **Repository:** [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf)
-- **Tech Stack:** Node.js • TypeScript • ADB • RethinkDB
+- **Repository:** [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) 🌾
+- **Tech Stack:** Node.js 🟩 • TypeScript 🔷 • ADB 🔌 • RethinkDB 🍃
 - **License:** Apache-2.0
 - **Supported Platforms:** Android Mobile Browsers (Chrome, Firefox, WebView)
 - **Why It Stands Out:**
@@ -184,8 +189,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - Instant remote debugging endpoints compatible with Chrome DevTools (`chrome://inspect`) for mobile web debugging.
 
 ### 12. Selenoid [![Stars](https://img.shields.io/github/stars/aerokube/selenoid?style=social&color=white)](https://github.com/aerokube/selenoid/stargazers)
-- **Repository:** [aerokube/selenoid](https://github.com/aerokube/selenoid)
-- **Tech Stack:** Go • Docker
+- **Repository:** [aerokube/selenoid](https://github.com/aerokube/selenoid) ⚡
+- **Tech Stack:** Go 🔵 • Docker 🐳
 - **License:** Apache-2.0
 - **Supported Browsers:** Chrome • Firefox • Opera • Edge (ephemeral containers)
 - **Why It Stands Out:**
@@ -194,8 +199,8 @@ Sorted in descending order by GitHub repository Stars Counts:
   - High concurrency per host with minimal resource consumption compared to standard Java-based grids.
 
 ### 13. Kasm Workspaces Images [![Stars](https://img.shields.io/github/stars/kasmtech/workspaces-core-images?style=social&color=white)](https://github.com/kasmtech/workspaces-core-images/stargazers)
-- **Repository:** [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images)
-- **Tech Stack:** Dockerfile • Shell • Python
+- **Repository:** [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) 📦
+- **Tech Stack:** Dockerfile 🐳 • Shell 🐚 • Python 🐍
 - **License:** Kasm Open-Source Community
 - **Supported Browsers:** Chrome • Firefox • Edge • Brave • Tor Browser
 - **Why It Stands Out:**
@@ -224,11 +229,27 @@ Sorted in descending order by GitHub repository Stars Counts:
 
 Contributions, issues, and feature requests are welcome!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AddBrowserTool`)
-3. Commit your Changes (`git commit -m 'Add awesome browser testing tool'`)
-4. Push to the Branch (`git push origin feature/AddBrowserTool`)
-5. Open a Pull Request
+1. Fork the Project 🍴
+2. Create your Feature Branch (`git checkout -b feature/AddBrowserTool`) 🌿
+3. Commit your Changes (`git commit -m 'Add awesome browser testing tool'`) ✍️
+4. Push to the Branch (`git push origin feature/AddBrowserTool`) 🚀
+5. Open a Pull Request 🔀
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated repository saved you research time or assisted in choosing the right Live Interactive Cross-Browser Testing solution for your team, please consider supporting the project:
+
+- ⭐ **Star this repository** to help other developers and QA engineers discover it.
+- 🍴 **Fork and contribute** your own insights, tools, or open-source infrastructure.
+- 📢 **Share with fellow frontend developers, QA leads, and SDETs.**
+- ☕ **Buy me a coffee / Sponsor:** Support ongoing maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Live-Interactive-Cross-Browser-Testing&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Live-Interactive-Cross-Browser-Testing&type=date&legend=top-left)
 
 ---
 
