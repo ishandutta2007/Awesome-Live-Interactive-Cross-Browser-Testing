@@ -76,7 +76,7 @@ Leading commercial, cloud-hosted live interactive cross-browser and real-device 
 
 Self-hosted, community-driven cross-browser testing platforms, remote interactive browser environments, and multi-browser automation backends.
 
-Sorted in descending order by GitHub repository Stars Counts:
+Sorted in descending order by GitHub repository Stars_Counts:
 
 ### 1. Playwright [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)
 - **Repository:** [microsoft/playwright](https://github.com/microsoft/playwright) 🎭
